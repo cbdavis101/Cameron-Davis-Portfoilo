@@ -46,17 +46,18 @@ ul {
     justify-content: center;
 }
 
-.about h2 {
-    text-align: center;
-}
-
 .about img {
-    float: center;
+    float: right;
 }
 
 .about p {
-    width: 500px;
-    text-align: center;  
+    width: 300px;
+    text-align: left;  
+}
+
+.about-title {
+    width: 100%;
+    text-align: center;
 }
 
 /* PREVIOUS WORK STYLES */
