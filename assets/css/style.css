@@ -1,5 +1,5 @@
 body {
-    background: rgb(233, 240, 239);
+    background: rgb(245, 244, 240);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;
 }
@@ -11,6 +11,7 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 25px;
+    background-color: rgb(238, 29, 29);
 }
 
 header h1 {
@@ -31,6 +32,7 @@ header nav ul li a {
     justify-content: space-between;
     font-size: 25px;
     padding: 35px;
+    text-decoration: none;
 }
 
 ul {
@@ -48,11 +50,15 @@ ul {
 
 .about img {
     float: right;
+    border-color: black;
+    border: solid;
+    
 }
 
 .about p {
     width: 300px;
     text-align: left;  
+    padding: 55px;
 }
 
 .about-title {
@@ -69,7 +75,32 @@ ul {
 }
 
 
+.hor #hor-title {
+    display: flex;
+    align-items: baseline;
+    visibility: visible;
+    border: solid;
+    border-color: black;
+    padding: 5px;
+}
 
+.hor:hover #hor-title {
+    visibility: none;
+}
+
+
+.run #run-title {
+    display: flex;
+    align-items: baseline;
+    visibility: visible;
+    border: solid;
+    border-color: black;
+    padding: 5px;
+}
+
+.run:hover #run-title {
+    visibility: none;
+}
 
 /* FOOTER STYLES */
 footer {
@@ -77,7 +108,7 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     padding: 20px 20px;
-    
+    background-color: rgb(64, 151, 233);
 }
 
 footer h2 {
