@@ -102,6 +102,15 @@ ul {
     visibility: none;
 }
 
+.hor p {
+    display: flex;
+}
+
+.run p {
+    display: flex;
+}
+
+
 /* FOOTER STYLES */
 footer {
     display: flex;
