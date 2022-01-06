@@ -6,8 +6,8 @@ Hello, I am Cameron Davis and i am a Full Stack Web Developer in training. I hav
 
 ## Deployed Projects
 
-![alt text](https://cbdavis101.github.io/run-buddy/#what-we-do "Run-Buddy")
-![alt text](https://cbdavis101.github.io/Horiseon-Marketing/#social-media-marketing "Horiseon Marketing")
+(https://cbdavis101.github.io/run-buddy/#what-we-do "Run-Buddy")
+(https://cbdavis101.github.io/Horiseon-Marketing/#social-media-marketing "Horiseon Marketing")
 
 
 ## Current Languages 
