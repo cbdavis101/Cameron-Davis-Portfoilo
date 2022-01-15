@@ -16,4 +16,7 @@ HTML
 CSS
 
 
+![Portfolio Preview](./assets/images/Portfolio-SS.png)
 
+
+[Cameron Davis Portfolio](https://cbdavis101.github.io/Cameron-Davis-Portfoilo/#About-Me)
